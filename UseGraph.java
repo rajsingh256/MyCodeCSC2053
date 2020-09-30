@@ -16,6 +16,7 @@ import Week5.WeightedGraphInterface;
 
 public class UseGraph
 {
+  // This comment is for class example. Dont mind it. :) :) :) :)
 
 private static boolean isPathDF(WeightedGraphInterface<String> graph,
                                 String startVertex, 
